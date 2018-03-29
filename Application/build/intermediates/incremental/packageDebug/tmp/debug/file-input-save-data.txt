@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Mar 29 14:20:38 CST 2018
+#Thu Mar 29 14:54:34 CST 2018
 0.baseType=DIRECTORY
 0.base=K\:\\BLE_SPP_1\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex

@@ -30,6 +30,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Binder;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.IBinder;
 import android.os.Message;
@@ -167,8 +168,10 @@ public class BluetoothLeService extends Service {
         int retry = 5;
         boolean status = false;
         while (!status && retry > 0) {
-            status = mBluetoothGatt.requestMtu(mtu);
-            retry--;
+            if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+                status = mBluetoothGatt.requestMtu(mtu);
+                retry--;
+            }
         }
     }
 
