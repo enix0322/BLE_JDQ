@@ -1,0 +1,4 @@
+#Tue Mar 27 16:18:10 CST 2018
+base.0=K\:\\BLE_SPP_1\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

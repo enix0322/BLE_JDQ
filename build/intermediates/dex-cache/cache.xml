@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ceeb4c0bd02cb6c2e2ed737a536ed3f005eab1fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\classes_05814d2cba829203ee2a2309d321de5a4c258ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\8cdbfd99ac89d5bf16137c0d793a3643\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\8a0fb5d3a24caaa45c7522b97d3faac1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\9425b93ef0d5f050e261af628fa149f3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\8a0fb5d3a24caaa45c7522b97d3faac1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\21e274ab5ede1a6e40620e02f476eb6d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\53f04b1b906e76a6fd219635cc6e4f52997361ef\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_9b10c0d15897586bf267338ac35853e9b4e4aab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\918e0398ce29da589bbf540779044fd4c83f33b2\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_c76ce1b14afd3c661867c58434885fa1fc985ccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\2b3da6d7909f0860279ec25b4e45f042\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\16c2398d0f28179c5cb49c9c3630b53acd579302\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\classes_f671f66a8612afd22455eab6ba9035cc71a007bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\21e274ab5ede1a6e40620e02f476eb6d\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9ac9e69a7a03f3a0230a4a6d2e5ae517542136b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\classes_64f5ce566bc3c7e3683e6792740481df3b304165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\053c3bf64a607f9b5b337a33a3cef3e7b4cd3312\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\classes_18dc95ab3dc12871ddfd716a95395f7f6829eff7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\6d9fa2b0135131668cef75fda43d5b3d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\918e0398ce29da589bbf540779044fd4c83f33b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\classes_b48716341ba2bcf4bb47ca0f862e0825b2047624.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\53f04b1b906e76a6fd219635cc6e4f52997361ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="K:\BLE_SPP_1\Application\build\intermediates\pre-dexed\debug\classes_4b5bd7f9c28646c3a4a2834a47ca9a1ce2aeb695.jar" />
+    </item>
+
+</items>
