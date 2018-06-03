@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "K:\\BLE_SPP_1\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "G:\\ble_4\\BLE_JDQ\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "K:\\BLE_SPP_1\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "source": "G:\\ble_4\\BLE_JDQ\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.1.aar\\2658681ee22031dc402256b26cc8cd6c\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.1.1.aar\\00d104a51bd0141ecaf647e4f269c724\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,8,14,20,26,32,38,39,40,41,46,51,56,58,60,61,62,111,161",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

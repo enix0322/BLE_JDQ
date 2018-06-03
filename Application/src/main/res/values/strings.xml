@@ -46,8 +46,17 @@
     <string name="device_address">address</string>
     <string name="scanning">Scanning......</string>
     <string name="zero">0</string>
+    <string name="Null"></string>
     <string name="speed">0 B/s</string>
     <string name="ble_need_location">Android6.0蓝牙需要开启</string>
 
+    <string name="period">周期</string>
+    <string name="phase">相位</string>
+    <string name="duty">占空比</string>
 
+    <string name="relay1">继电器1</string>
+    <string name="relay2">继电器2</string>
+    <string name="relay3">继电器3</string>
+    <string name="relay4">继电器4</string>
+    <string name="set">设置</string>
 </resources>

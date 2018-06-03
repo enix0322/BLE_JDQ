@@ -18,7 +18,7 @@
 
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.TEST"
+    package="com.android.BLEJDQ"
     android:versionCode="1"
     android:versionName="1.4">
 
@@ -41,15 +41,15 @@
     <application android:label="@string/app_name"
         android:icon="@drawable/ic_launcher"
         android:theme="@android:style/Theme.Holo.Light">
-        <activity android:name="com.smartwebee.android.blespp.DeviceScanActivity"
+        <activity android:name="com.van.android.DeepDarkFantasy.DeviceScanActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name="com.smartwebee.android.blespp.BleSppActivity"/>
-        <service android:name="com.smartwebee.android.blespp.BluetoothLeService" android:enabled="true"/>
+        <activity android:name="com.van.android.DeepDarkFantasy.BleSppActivity"/>
+        <service android:name="com.van.android.DeepDarkFantasy.BluetoothLeService" android:enabled="true"/>
     </application>
 
 </manifest>

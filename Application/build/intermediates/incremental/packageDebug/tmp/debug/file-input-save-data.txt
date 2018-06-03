@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Thu Mar 29 14:54:34 CST 2018
+#Sun Jun 03 17:09:32 CST 2018
 0.baseType=DIRECTORY
-0.base=K\:\\BLE_SPP_1\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.base=G\:\\ble_4\\BLE_JDQ\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\38
 0.path=classes.dex
 0.set=DEX
 count=1

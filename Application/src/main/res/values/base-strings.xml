@@ -16,7 +16,7 @@
 -->
 
 <resources>
-    <string name="app_name">压力表测试</string>
+    <string name="app_name">BLE继电器</string>
     <string name="intro_message">
         <![CDATA[
         

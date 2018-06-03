@@ -1,131 +1,131 @@
 -- Merging decision tree log ---
 manifest
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:20:1-55:12
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:20:1-55:12
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:20:1-55:12
-MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\0a02f782fab0ea3893bcecb8b0832c08\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\2658681ee22031dc402256b26cc8cd6c\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\efe778ea9914f781f566696f8bf37940\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b91549d547b2b98f7a1f371fe8dc90f3\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\2261819c2d22968e264330532a77fe60\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\0f582fa0763f3defb437de6268238bef\AndroidManifest.xml:17:1-24:12
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:20:1-55:12
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:20:1-55:12
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:20:1-55:12
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:20:1-55:12
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:20:1-55:12
+MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\2779fe2de42380f312dafe5047d59e83\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\00d104a51bd0141ecaf647e4f269c724\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\79e73921548b2e26be986ac7972dff06\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b193fccb7a11d374796d39618d91fd6a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\53dd99f144b20b1831f6f387d8edef22\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\15d41af458c4d96d9ab88453cb866807\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:20:1-55:12
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:20:1-55:12
 	package
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:21:5-31
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:21:5-33
 	android:versionName
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:23:5-30
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:20:11-69
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:20:11-69
 	android:versionCode
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:22:5-28
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH_PRIVILEGED
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:32:5-79
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:32:5-79
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:32:22-76
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:32:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:33:5-81
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:33:5-81
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:33:22-78
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:33:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:34:5-81
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:34:5-81
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:34:22-78
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:34:22-78
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:35:5-74
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:35:5-74
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:35:22-71
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:35:22-71
 uses-permission#android.permission.BLUETOOTH
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:36:5-68
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:36:5-68
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:36:22-65
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:36:22-65
 uses-feature#android.hardware.bluetooth_le
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:38:5-90
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:38:5-90
 	android:required
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:38:64-87
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:38:64-87
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:38:19-63
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:38:19-63
 uses-feature#android.bluetooth.le
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:39:5-80
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:39:5-80
 	android:required
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:39:55-78
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:39:55-78
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:39:19-54
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:39:19-54
 application
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:41:5-53:19
-MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\0a02f782fab0ea3893bcecb8b0832c08\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\0a02f782fab0ea3893bcecb8b0832c08\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\2658681ee22031dc402256b26cc8cd6c\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\2658681ee22031dc402256b26cc8cd6c\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\efe778ea9914f781f566696f8bf37940\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\efe778ea9914f781f566696f8bf37940\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b91549d547b2b98f7a1f371fe8dc90f3\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b91549d547b2b98f7a1f371fe8dc90f3\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\2261819c2d22968e264330532a77fe60\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\2261819c2d22968e264330532a77fe60\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\0f582fa0763f3defb437de6268238bef\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\0f582fa0763f3defb437de6268238bef\AndroidManifest.xml:22:5-20
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:41:5-53:19
+MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\2779fe2de42380f312dafe5047d59e83\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\2779fe2de42380f312dafe5047d59e83\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\00d104a51bd0141ecaf647e4f269c724\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\00d104a51bd0141ecaf647e4f269c724\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\79e73921548b2e26be986ac7972dff06\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\79e73921548b2e26be986ac7972dff06\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b193fccb7a11d374796d39618d91fd6a\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b193fccb7a11d374796d39618d91fd6a\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\53dd99f144b20b1831f6f387d8edef22\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\53dd99f144b20b1831f6f387d8edef22\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\15d41af458c4d96d9ab88453cb866807\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\15d41af458c4d96d9ab88453cb866807\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:41:18-50
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:41:18-50
 	android:icon
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:42:9-45
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:42:9-45
 	android:theme
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:43:9-56
-activity#com.smartwebee.android.blespp.DeviceScanActivity
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:44:9-50:20
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:43:9-56
+activity#com.van.android.DeepDarkFantasy.DeviceScanActivity
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:44:9-50:20
 	android:label
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:45:13-45
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:45:13-45
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:44:19-82
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:44:19-84
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:46:13-49:29
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:46:13-49:29
 action#android.intent.action.MAIN
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:47:17-68
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:47:17-68
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:47:25-66
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:47:25-66
 category#android.intent.category.LAUNCHER
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:48:17-76
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:48:17-76
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:48:27-74
-activity#com.smartwebee.android.blespp.BleSppActivity
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:51:9-80
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:48:27-74
+activity#com.van.android.DeepDarkFantasy.BleSppActivity
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:51:9-82
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:51:19-78
-service#com.smartwebee.android.blespp.BluetoothLeService
-ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:52:9-106
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:51:19-80
+service#com.van.android.DeepDarkFantasy.BluetoothLeService
+ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:52:9-108
 	android:enabled
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:52:82-104
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:52:84-106
 	android:name
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml:52:18-81
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml:52:18-83
 uses-sdk
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\0a02f782fab0ea3893bcecb8b0832c08\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\0a02f782fab0ea3893bcecb8b0832c08\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\2658681ee22031dc402256b26cc8cd6c\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\2658681ee22031dc402256b26cc8cd6c\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\efe778ea9914f781f566696f8bf37940\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\efe778ea9914f781f566696f8bf37940\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b91549d547b2b98f7a1f371fe8dc90f3\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b91549d547b2b98f7a1f371fe8dc90f3\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\2261819c2d22968e264330532a77fe60\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\2261819c2d22968e264330532a77fe60\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\0f582fa0763f3defb437de6268238bef\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\0f582fa0763f3defb437de6268238bef\AndroidManifest.xml:20:5-43
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\2779fe2de42380f312dafe5047d59e83\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\2779fe2de42380f312dafe5047d59e83\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\00d104a51bd0141ecaf647e4f269c724\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.1.1.aar\00d104a51bd0141ecaf647e4f269c724\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\79e73921548b2e26be986ac7972dff06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.1.1.aar\79e73921548b2e26be986ac7972dff06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b193fccb7a11d374796d39618d91fd6a\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.1.1.aar\b193fccb7a11d374796d39618d91fd6a\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\53dd99f144b20b1831f6f387d8edef22\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\53dd99f144b20b1831f6f387d8edef22\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\15d41af458c4d96d9ab88453cb866807\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.1.1.aar\15d41af458c4d96d9ab88453cb866807\AndroidManifest.xml:20:5-43
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\0a02f782fab0ea3893bcecb8b0832c08\AndroidManifest.xml:23:9-52
+		ADDED from [com.android.support:support-v13:24.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v13-24.1.1.aar\2779fe2de42380f312dafe5047d59e83\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-		ADDED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
-		INJECTED from K:\BLE_SPP_1\Application\src\main\AndroidManifest.xml
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+		ADDED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
+		INJECTED from G:\ble_4\BLE_JDQ\Application\src\main\AndroidManifest.xml
